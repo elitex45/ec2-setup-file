@@ -30,3 +30,7 @@ echo "Node.js version: $(node -v)"
 echo "NPM version: $(npm -v)"
 
 echo "Installation completed successfully!"
+
+echo "Sourcing the terminal with source ~/.bashrc"
+source ~/.bashrc
+echo "Sourcing done!!"
